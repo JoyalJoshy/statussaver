@@ -1,5 +1,2 @@
-# Heading 1
-Privacy Policy
-
-## Heading 2
-This is another para
+# Privacy Policy
+We Use Scoped Storage Permission to access device folder for accessing images and videos
